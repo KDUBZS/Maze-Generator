@@ -1,12 +1,12 @@
 
-Project: mazeGenerator
+Project: Maze-Generator
 Author: Kienen Wayrynen
 Student ID: 11430827
 Contact: kienen.wayrynen@wsu.edu
 Created: December 9, 2015
 
 Description:
-The mazeGenerator project uses a depth first search algorithm to create random maze for the specified parameter.
+The Maze-Generator project uses a depth first search algorithm to solve a random maze for the specified parameter.
 
 Included in this JAR File:
 - Graph.java
